@@ -1,0 +1,10 @@
+./proxycon1.sh~
+./new.sh~
+./pro3.sh~
+./new.py~
+./cent1.sh~
+./new1.py~
+./pro1.sh~
+./cent.sh~
+./proxycon.sh~
+./pro2.sh~
